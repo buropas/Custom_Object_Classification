@@ -4,5 +4,5 @@ We can think of TRANSFER LEARNING as utilizing the feature learning layers of a 
 
 For istance, we can take a Neural Network, called VGG16, that was trained on the ImageNet dataset, containing more than 14 million high-resolution images belonging to 1000 different labels.  The idea is to take advantage of the Feature Learning part of this network (features extractor) and reuse it in order to solve our specific problem.
 
-![alt text](https://github.com/buropas/Custom_Object_Classification/blob/main/VGG16.png?raw=true)
-![alt text](https://github.com/buropas/Custom_Object_Classification/blob/main/VGG16_2.png?raw=true)
+![alt text](https://github.com/buropas/Transfer_Learning_for_Custom_Object_Classification/blob/main/VGG16.png?raw=true)
+![alt text](https://github.com/buropas/Transfer_Learning_for_Custom_Object_Classification/blob/main/VGG16_2.png?raw=true)
